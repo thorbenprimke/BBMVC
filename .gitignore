@@ -1,0 +1,12 @@
+.preprocessed/
+bin/
+deliverables/
+.locale_interfaces/
+.settings/
+*.debug
+*.cod
+*.csl
+*.cso
+*.jad
+*.jar
+*.rapc
